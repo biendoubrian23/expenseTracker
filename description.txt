@@ -1,0 +1,8 @@
+créer moi une inerface sous forme d'application de mes depenses 
+je veux savoir exactement sur quoi j'ai depensé, combien? les 
+recurrence et tout ce qui s'en suit, suivant le fiché csv que je
+ vais metre a la racine et surtout a la fin j'aimerai que tu me 
+ fasse des conseilles des optimisations, bref plein de conseil 
+ pour optimiser cela,
+
+avant de coder dis moi si tu peux lire le fichier pdf ?
